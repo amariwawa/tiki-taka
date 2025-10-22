@@ -2,9 +2,9 @@ import React, {useState} from 'react';
 
 import './App.css';
 
-import {Board} from "./components/Board"
-import {ScoreBoard} from "./components/ScoreBoard"
-import {ResetButton} from "./components/ResetButton"
+import {Board} from "./Board"
+import {ScoreBoard} from "./ScoreBoard"
+import {ResetButton} from "./ResetButton"
 
 function App() {
   
