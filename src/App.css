@@ -4,6 +4,6 @@
 
 body{
   margin: 0;
-  background-color: rgb(34, 0, 255);
+  background: linear-gradient(135deg, #0B0B0D 10%, #3A0CA3 40%, #4361EE 80%);
   font-family:"Georgia", sans-serif ;
 }
