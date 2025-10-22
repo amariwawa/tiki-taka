@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background-color: rgb(34, 0, 255);
+  font-family:"Georgia", sans-serif ;
+}
