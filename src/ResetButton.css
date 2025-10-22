@@ -1,8 +1,8 @@
 .reset-button {
   padding: 0.5rem 1rem;
   font-size: 2rem;
-  background-color: #ff4d4d;
-  color: white;
+  background-color: #5f4dff;
+  color: rgb(254, 254, 254);
   border: none;
   border-radius: 0.5rem;
   cursor: pointer;
